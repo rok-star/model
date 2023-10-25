@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "useUnknownInCatchVariables": false,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "module": "es6",
+        "target": "es6",
+        "outDir": "./dist/esm",
+		"declaration": true,
+        "lib": ["es2022"]
+    },
+	"include": [
+		"src"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
