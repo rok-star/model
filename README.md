@@ -1,0 +1,1 @@
+![Example](https://github.com/rok-star/model/blob/main/doc/example.png)
